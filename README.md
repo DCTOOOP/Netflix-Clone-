@@ -280,6 +280,3 @@ After building this project, you should understand:
 
 For questions or issues, refer to the project code structure and comments within components.
 
----
-
-**Happy Coding! 🚀**
